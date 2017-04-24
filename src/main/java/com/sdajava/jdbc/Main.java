@@ -10,5 +10,8 @@ public class Main {
         dbQuery.getQuery();
         dbQuery1.getQuery();
 
+        dbQuery.updateQuery();
+        dbQuery.getSingleQuery();
+
     }
 }
