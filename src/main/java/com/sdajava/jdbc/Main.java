@@ -7,11 +7,12 @@ public class Main {
         DBQuery dbQuery = new DBQuery();
         DBQuery dbQuery1 = new DBQuery();
 
-        dbQuery.getQuery();
-        dbQuery1.getQuery();
+        //dbQuery.getQuery();
+        //dbQuery1.getQuery();
 
-        dbQuery.updateQuery();
-        dbQuery.getSingleQuery();
+        //dbQuery.updateQuery();
+        //dbQuery.getSingleQuery();
+        dbQuery.updateQuery2nd();
 
     }
 }
